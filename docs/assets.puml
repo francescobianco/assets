@@ -1,13 +1,8 @@
 @startuml
-actor Foo1
-boundary Foo2
-control Foo3
-entity Foo4
-database Foo5
-collections Foo6
-Foo1 -> Foo2 : To boundary 1
-Foo1 -> Foo3 : To control 1
-Foo1 -> Foo4 : To entity
-Foo1 -> Foo5 : To database
-Foo1 -> Foo6 : To collections
+
+artifact "www.javanile.org"
+artifact "github.com/javanile"
+
+[www.javanile.org] --> [github.com/javanile]
+
 @enduml
