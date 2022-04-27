@@ -1,4 +1,4 @@
-# assets
+# Assets management
 
 Assets by relevance
 
