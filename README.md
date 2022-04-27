@@ -2,4 +2,4 @@
 
 Assets by relevance
 
-![Assets](docs/assets2.svg)
+![Assets](docs/assets.svg)
