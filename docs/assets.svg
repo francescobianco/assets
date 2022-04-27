@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="151px" preserveAspectRatio="none" style="width:452px;height:151px;background:#FFFFFF;" version="1.1" viewBox="0 0 452 151" width="452px" zoomAndPan="magnify"><defs/><g><!--MD5=[ca5e029fbe4a04f960903eee89740330]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="151px" preserveAspectRatio="none" style="width:621px;height:151px;background:#FFFFFF;" version="1.1" viewBox="0 0 621 151" width="621px" zoomAndPan="magnify"><defs/><g><!--MD5=[ca5e029fbe4a04f960903eee89740330]
 entity www.javanile.org--><g id="elem_www.javanile.org"><rect fill="#F1F1F1" height="39.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="151" x="17.5" y="7"/><polygon fill="#F1F1F1" points="151.5,12,151.5,26,163.5,26,163.5,18,157.5,12,151.5,12" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="157.5" x2="157.5" y1="12" y2="18"/><line style="stroke:#181818;stroke-width:0.5;" x1="163.5" x2="157.5" y1="18" y2="18"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="27.5" y="32.9951">www.javanile.org</text></g><!--MD5=[30dd37e566842873dfc463407840466a]
 entity github.com/javanile--><g id="elem_github.com/javanile"><rect fill="#F1F1F1" height="39.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="172" x="7" y="106"/><polygon fill="#F1F1F1" points="162,111,162,125,174,125,174,117,168,111,162,111" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="168" x2="168" y1="111" y2="117"/><line style="stroke:#181818;stroke-width:0.5;" x1="174" x2="168" y1="117" y2="117"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="17" y="131.9951">github.com/javanile</text></g><!--MD5=[92304504875fcf1264b23e7d9d2a9ea1]
-entity github.com/francescobianco--><g id="elem_github.com/francescobianco"><rect fill="#F1F1F1" height="39.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="236" x="204" y="7"/><polygon fill="#F1F1F1" points="423,12,423,26,435,26,435,18,429,12,423,12" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="429" x2="429" y1="12" y2="18"/><line style="stroke:#181818;stroke-width:0.5;" x1="435" x2="429" y1="18" y2="18"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="206" x="214" y="32.9951">github.com/francescobianco</text></g><!--MD5=[15353098e38023353bc458a516e3c309]
-link www.javanile.org to github.com/javanile--><g id="link_www.javanile.org_github.com/javanile"><path d="M93,46.2026 C93,61.7688 93,84.021 93,100.8274 " fill="none" id="www.javanile.org-to-github.com/javanile" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="93,105.8548,97,96.8548,93,100.8548,89,96.8548,93,105.8548" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f2a8172f35dc4e36260f8f8c60bc1bef]
+entity github.com/francescobianco--><g id="elem_github.com/francescobianco"><rect fill="#F1F1F1" height="39.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="236" x="204" y="7"/><polygon fill="#F1F1F1" points="423,12,423,26,435,26,435,18,429,12,423,12" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="429" x2="429" y1="12" y2="18"/><line style="stroke:#181818;stroke-width:0.5;" x1="435" x2="429" y1="18" y2="18"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="206" x="214" y="32.9951">github.com/francescobianco</text></g><!--MD5=[c778ebf107bd60e385cedf5bafad7936]
+entity hardcode.blog--><g id="elem_hardcode.blog"><rect fill="#F1F1F1" height="39.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="134" x="475" y="7"/><polygon fill="#F1F1F1" points="592,12,592,26,604,26,604,18,598,12,592,12" style="stroke:#181818;stroke-width:0.5;"/><line style="stroke:#181818;stroke-width:0.5;" x1="598" x2="598" y1="12" y2="18"/><line style="stroke:#181818;stroke-width:0.5;" x1="604" x2="598" y1="18" y2="18"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="485" y="32.9951">hardcode.blog</text></g><!--MD5=[15353098e38023353bc458a516e3c309]
+link www.javanile.org to github.com/javanile--><g id="link_www.javanile.org_github.com/javanile"><path d="M93,46.2026 C93,61.7688 93,84.021 93,100.8274 " fill="none" id="www.javanile.org-to-github.com/javanile" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="93,105.8548,97,96.8548,93,100.8548,89,96.8548,93,105.8548" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[17516c18b6e88bd5f2f418713de14c9e]
 @startuml
 '== Assets =='
 
@@ -12,6 +13,7 @@ artifact "github.com/javanile"
 
 '- - Francesco Bianco - -'
 artifact "github.com/francescobianco"
+artifact "hardcode.blog"
 
 '== Connections =='
 
@@ -24,6 +26,7 @@ artifact "www.javanile.org"
 artifact "github.com/javanile"
 
 artifact "github.com/francescobianco"
+artifact "hardcode.blog"
 
 
 [www.javanile.org] - -> [github.com/javanile]
