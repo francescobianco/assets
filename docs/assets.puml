@@ -4,13 +4,13 @@ skinparam backgroundcolor transparent
 '== Assets =='
 
 '-- Javanile --'
-artifact "www.javanile.org"
-artifact "github.com/javanile"
+card "www.javanile.org"
+card "github.com/javanile"
 
 '-- Francesco Bianco --'
-artifact "github.com/francescobianco"
-artifact "twitter.com/francescobianco"
-artifact "hardcode.blog"
+card "github.com/francescobianco"
+card "twitter.com/francescobianco"
+card "hardcode.blog"
 
 '== Connections =='
 
