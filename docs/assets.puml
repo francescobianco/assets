@@ -1,5 +1,6 @@
 @startuml
 skinparam monochrome reverse
+skinparam backgroundcolor transparent
 
 '== Assets =='
 
