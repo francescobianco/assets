@@ -1,9 +1,10 @@
 name: generate plantuml
 on: push
-permissions: read-all|write-all
+
 jobs:
   generate_plantuml:
     runs-on: ubuntu-latest
+    permissions: read-all|write-all
     name: plantuml
     steps:
     - name: checkout
