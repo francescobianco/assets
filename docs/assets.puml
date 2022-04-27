@@ -15,5 +15,8 @@ artifact "hardcode.blog"
 '== Connections =='
 
 [www.javanile.org] --> [github.com/javanile]
+[twitter.com/francescobianco] --> [github.com/francescobianco]
+
+[github.com/francescobianco] --> [hardcode.blog]
 
 @enduml
