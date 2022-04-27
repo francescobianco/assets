@@ -1,5 +1,5 @@
-# assets
+# Assets management
 
-Assets by relevance - 
+Assets by relevance
 
 ![Assets](docs/assets.svg)
