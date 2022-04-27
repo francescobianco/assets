@@ -1,7 +1,15 @@
 @startuml
 
+'== Assets =='
+
+'-- Javanile --'
 artifact "www.javanile.org"
 artifact "github.com/javanile"
+
+'-- Francesco Bianco --'
+artifact "github.com/francescobianco"
+
+'== Connections =='
 
 [www.javanile.org] --> [github.com/javanile]
 
